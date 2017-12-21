@@ -42,8 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Static Classes and Members\Employee.cs" />
+    <Compile Include="SingleTon Break with Inner Class\Manager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SingleTon Lazy Loading\Scientist.cs" />
+    <Compile Include="SingleTon Sealed Wrap\Security.cs" />
+    <Compile Include="SingleTon Thread Safe\Specalist.cs" />
+    <Compile Include="SingleTon Eager Loading\Student.cs" />
+    <Compile Include="Basic SingleTon Implementation\Worker.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
